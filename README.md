@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is tuanngp
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyen Gia Phuong Tuan
 ===============================================================================================================================
 
 I am a junior student at FPT University with a passion for backend development. I enjoy learning new programming languages and building efficient, scalable applications. My goal is to leverage my skills in Java and C# to create innovative solutions and continually grow as a backend developer.
 
 * 🌍  I'm based in Viet Nam
-* ✉️  You can contact me at [nguyengiaphuongtuan@gmail.com](mailto:nguyengiaphuongtuan@gmail.com)
+* ✉️  You can contact me at [nguyengiaphuongtuan@gmail.com](mailto:tuanngp.work@gmail.com)
 
 
 # 💻Tech Stack
@@ -12,4 +12,4 @@ I am a junior student at FPT University with a passion for backend development. 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Tuanngp&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tuanngp&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuanngp&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuanngp&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
